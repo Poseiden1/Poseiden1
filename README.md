@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Poseiden1
 - 👀 I’m interested in Node.js, C# and Unity!
 - 🌱 I’m currently learning Webdevelopment.
+- Most of my projects aren't public here.
 
 <!---
 Poseiden1/Poseiden1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
