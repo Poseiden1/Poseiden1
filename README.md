@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Poseiden1
 
-- 👨‍💻 Web Developer with a focus on modern web technologies  
-- 🚀 Working on private and experimental projects  
-- 🌱 Always learning and building new things  
+I love building things on the web — from small experiments to full projects.  
+Most of my work isn’t public, but I’m always learning and improving.
 
-Thanks for stopping by!
+Thanks for visiting my profile!
